@@ -4,7 +4,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context=".view.LoginActivity" >
+    tools:context=".activity.LoginActivity" >
 
     <data>
         <variable name="loginViewModel" type="com.example.myapplication.viewModel.LoginViewModel"/>

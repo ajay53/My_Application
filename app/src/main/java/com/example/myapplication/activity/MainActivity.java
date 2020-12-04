@@ -1,7 +1,6 @@
-package com.example.myapplication.view;
+package com.example.myapplication.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.AppCompatSpinner;
 import androidx.appcompat.widget.AppCompatTextView;
 
 import android.os.Bundle;
